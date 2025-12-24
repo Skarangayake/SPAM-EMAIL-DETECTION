@@ -126,6 +126,8 @@ A confusion matrix is also used to analyze misclassifications.
 
 ---
 
+ **Live Demo:** https://spam-email-detection.streamlit.app
+
 ## ▶️ How to Run the Project
 
 Follow the steps below to run the project locally.
